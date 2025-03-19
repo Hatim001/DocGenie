@@ -1,5 +1,7 @@
 # DocGenie
 
+![DocGenie Home Page](./home_page.png)
+
 Welcome to **DocGenie** - a powerful and intuitive application designed to bring the best features of Google Docs to your fingertips, with an added twist of AI-powered content generation. Whether you're drafting a document, brainstorming ideas, or crafting a resume, DocGenie is here to assist you with a seamless, user-friendly interface and cutting-edge technology.
 
 ## Table of Contents
